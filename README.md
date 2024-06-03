@@ -7,6 +7,7 @@ Run the project:
 ```shell
 git clone https://github.com/yoazmenda/data_science_project/
 cd data_science_project
+python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 jupyter-lab
